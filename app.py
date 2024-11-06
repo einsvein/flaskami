@@ -14,5 +14,5 @@ def hello_world():
 
 @app.route("/")
 def advokaut():
-    return "<p>Advokaut.no</p>"
+    return "<p>Advokaut.no rules</p>"
 
